@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9653bce7-3fd1-4e42-8241-6bedcdb2b452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HotelReservationSystem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HotelReservationSystem/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HotelReservationSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HotelReservationSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Components/Test.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelReservationSystem.UI/Bootstrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelReservationSystem.UI/ViewModels/ShellViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelReservationSystem.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/ViewModels/ShellViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1551865307936" expanded="true" signature="69:339" ph="{...}" />
+                <marker date="1551865307936" expanded="true" signature="123:337" ph="{...}" />
+                <marker date="1551865307936" expanded="true" signature="237:331" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <marker date="1552035073248" expanded="true" signature="0:940" ph="&lt;&lt;DockPanel&gt;&#10;        &lt;Menu DockPanel.Dock=&quot;Top&quot; FontSize=&quot;18&quot;&gt;&#10;            &lt;MenuItem Header=&quot;_File&quot; /&gt;&#10;            &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;            &#10;        &lt;/Menu&gt;&#10;        &lt;Grid&gt;&#10;            &lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/DockPanel&gt;.../&gt;" />
+                <marker date="1552035073248" expanded="true" signature="560:930" ph="&lt;&lt;Menu DockPanel.Dock=&quot;Top&quot; FontSize=&quot;18&quot;&gt;&#10;            &lt;MenuItem Header=&quot;_File&quot; /&gt;&#10;            &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;            &#10;        &lt;/Menu&gt; &lt;Grid&gt;&#10;            &lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+                <marker date="1552035073248" expanded="true" signature="580:820" ph="&lt;&lt;MenuItem Header=&quot;_File&quot; /&gt; &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;.../&gt;" />
+                <marker date="1552035073248" expanded="true" signature="674:792" ph="&lt;&lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;.../&gt;" />
+                <marker date="1552035073248" expanded="true" signature="829:913" ph="&lt;&lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding>
+                <marker date="1551860462794" expanded="true" signature="64:206" ph="{...}" />
+                <marker date="1551860462794" expanded="true" signature="110:204" ph="{...}" />
+                <marker date="1551860462794" expanded="true" signature="143:198" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Bootstrapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <marker date="1552311459763" expanded="false" signature="6:154" ph="..." />
+                <marker date="1552311459763" expanded="true" signature="191:1593" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="242:1591" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="355:401" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="446:1013" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="1091:1161" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="1234:1311" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="1389:1465" ph="{...}" />
+                <marker date="1552311459763" expanded="true" signature="1523:1585" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/ViewModels/ShellViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Bootstrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Components/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.Services/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HotelReservationSystem.UI/App.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HotelReservationSystem.Services/Program.cs" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.Services.Tests/HotelReservationSystem.Services.Tests.csproj" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Class1.cs" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/ViewModels/ShellViewModel.cs" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/App.xaml" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml.cs" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.UI/Bootstrapper.cs" />
+        <option value="$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Components/Test.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HotelReservationSystem" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HotelReservationSystem.UI/bin/Debug/HotelReservationSystem.UI.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HotelReservationSystem.UI/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HotelReservationSystem.UI/HotelReservationSystem.UI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9653bce7-3fd1-4e42-8241-6bedcdb2b452" name="Default Changelist" comment="" />
+      <created>1551708810123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551708810123</updated>
+      <workItem from="1551708813161" duration="1055000" />
+      <workItem from="1551722883353" duration="1000" />
+      <workItem from="1551723561899" duration="6839000" />
+      <workItem from="1551961119700" duration="154000" />
+      <workItem from="1552035009334" duration="298000" />
+      <workItem from="1552311377086" duration="3241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11588000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.30985916" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49626866" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49925372" weight="0.34994584" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="XAML Preview" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50373137" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.49200428" weight="0.32827735" />
+      <window_info anchor="bottom" id="REST Client" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" visible="true" weight="0.2739872" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/App.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Properties/Resources.resx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1202" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/MainWindow.xaml" />
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services.Tests/HotelReservationSystem.Services.Tests.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services.Tests/packages.config" />
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <folding>
+            <marker date="1551861498976" expanded="false" signature="6:101" ph="..." />
+            <marker date="1551861498976" expanded="true" signature="103:289" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1551861498976" expanded="true" signature="638:846" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1551861498976" expanded="true" signature="1021:1346" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/ViewModels/ShellViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1551865307936" expanded="true" signature="69:339" ph="{...}" />
+            <marker date="1551865307936" expanded="true" signature="123:337" ph="{...}" />
+            <marker date="1551865307936" expanded="true" signature="237:331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <marker date="1552035073248" expanded="true" signature="0:940" ph="&lt;&lt;DockPanel&gt;&#10;        &lt;Menu DockPanel.Dock=&quot;Top&quot; FontSize=&quot;18&quot;&gt;&#10;            &lt;MenuItem Header=&quot;_File&quot; /&gt;&#10;            &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;            &#10;        &lt;/Menu&gt;&#10;        &lt;Grid&gt;&#10;            &lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/DockPanel&gt;.../&gt;" />
+            <marker date="1552035073248" expanded="true" signature="560:930" ph="&lt;&lt;Menu DockPanel.Dock=&quot;Top&quot; FontSize=&quot;18&quot;&gt;&#10;            &lt;MenuItem Header=&quot;_File&quot; /&gt;&#10;            &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;            &#10;        &lt;/Menu&gt; &lt;Grid&gt;&#10;            &lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1552035073248" expanded="true" signature="580:820" ph="&lt;&lt;MenuItem Header=&quot;_File&quot; /&gt; &lt;MenuItem Header=&quot;_Account&quot;&gt;&#10;                &lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;&#10;            &lt;/MenuItem&gt;.../&gt;" />
+            <marker date="1552035073248" expanded="true" signature="674:792" ph="&lt;&lt;MenuItem x:Name=&quot;LoginScreen&quot; Header=&quot;_Login&quot; /&gt;.../&gt;" />
+            <marker date="1552035073248" expanded="true" signature="829:913" ph="&lt;&lt;ContentControl x:Name=&quot;ActiveItem&quot; Margin=&quot;5&quot; /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Views/ShellView.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding>
+            <marker date="1551860462794" expanded="true" signature="64:206" ph="{...}" />
+            <marker date="1551860462794" expanded="true" signature="110:204" ph="{...}" />
+            <marker date="1551860462794" expanded="true" signature="143:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <marker date="1551860338700" expanded="true" signature="0:648" ph="&lt;&lt;Application.Resources&gt;&#10;         &lt;ResourceDictionary&gt;&#10;             &lt;ResourceDictionary.MergedDictionaries&gt;&#10;                 &lt;ResourceDictionary&gt;&#10;                     &lt;local:Bootstrapper x:Key=&quot;Bootstrapper&quot;/&gt;&#10;                 &lt;/ResourceDictionary&gt;&#10;             &lt;/ResourceDictionary.MergedDictionaries&gt;&#10;         &lt;/ResourceDictionary&gt;&#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1551860338700" expanded="true" signature="272:633" ph="&lt;&lt;ResourceDictionary&gt;&#10;             &lt;ResourceDictionary.MergedDictionaries&gt;&#10;                 &lt;ResourceDictionary&gt;&#10;                     &lt;local:Bootstrapper x:Key=&quot;Bootstrapper&quot;/&gt;&#10;                 &lt;/ResourceDictionary&gt;&#10;             &lt;/ResourceDictionary.MergedDictionaries&gt;&#10;         &lt;/ResourceDictionary&gt;.../&gt;" />
+            <marker date="1551860338700" expanded="true" signature="305:604" ph="&lt;&lt;ResourceDictionary.MergedDictionaries&gt;&#10;                 &lt;ResourceDictionary&gt;&#10;                     &lt;local:Bootstrapper x:Key=&quot;Bootstrapper&quot;/&gt;&#10;                 &lt;/ResourceDictionary&gt;&#10;             &lt;/ResourceDictionary.MergedDictionaries&gt;.../&gt;" />
+            <marker date="1551860338700" expanded="true" signature="339:573" ph="&lt;&lt;ResourceDictionary&gt;&#10;                     &lt;local:Bootstrapper x:Key=&quot;Bootstrapper&quot;/&gt;&#10;                 &lt;/ResourceDictionary&gt;.../&gt;" />
+            <marker date="1551860338700" expanded="true" signature="396:519" ph="&lt;&lt;local:Bootstrapper x:Key=&quot;Bootstrapper&quot;/&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.Services.Tests/Components/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1552313628240" expanded="true" signature="124:235" ph="{...}" />
+            <marker date="1552313628240" expanded="true" signature="173:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HotelReservationSystem.UI/Bootstrapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <marker date="1552311459763" expanded="false" signature="6:154" ph="..." />
+            <marker date="1552311459763" expanded="true" signature="191:1593" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="242:1591" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="355:401" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="446:1013" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="1091:1161" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="1234:1311" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="1389:1465" ph="{...}" />
+            <marker date="1552311459763" expanded="true" signature="1523:1585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
