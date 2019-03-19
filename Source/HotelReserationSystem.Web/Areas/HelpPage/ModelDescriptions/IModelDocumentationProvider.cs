@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

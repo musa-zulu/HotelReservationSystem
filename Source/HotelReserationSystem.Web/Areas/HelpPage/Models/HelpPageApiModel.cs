@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions;
+using HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.Models
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

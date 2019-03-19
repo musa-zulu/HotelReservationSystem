@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage
+namespace HotelReserationSystem.WebApi.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

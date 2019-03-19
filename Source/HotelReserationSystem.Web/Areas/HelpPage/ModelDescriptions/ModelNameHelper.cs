@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

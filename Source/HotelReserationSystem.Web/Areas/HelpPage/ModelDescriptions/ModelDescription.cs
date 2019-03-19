@@ -1,6 +1,6 @@
 using System;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

@@ -1,11 +1,11 @@
 using System.Web.Http;
 using WebActivatorEx;
-using HotelReserationSystem.Web;
+using HotelReserationSystem.WebApi;
 using Swashbuckle.Application;
 
 [assembly: PreApplicationStartMethod(typeof(SwaggerConfig), "Register")]
 
-namespace HotelReserationSystem.Web
+namespace HotelReserationSystem.WebApi
 {
     public class SwaggerConfig
     {
@@ -32,7 +32,7 @@ namespace HotelReserationSystem.Web
                         // hold additional metadata for an API. Version and title are required but you can also provide
                         // additional fields by chaining methods off SingleApiVersion.
                         //
-                        c.SingleApiVersion("v1", "HotelReserationSystem.Web");
+                        c.SingleApiVersion("v1", "HotelReserationSystem.WebApi");
 
                         // If you want the output Swagger docs to be indented properly, enable the "PrettyPrint" option.
                         //

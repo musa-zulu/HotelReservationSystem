@@ -11,7 +11,7 @@ using System.Web.Http.Description;
 using System.Xml.Serialization;
 using Newtonsoft.Json;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Generates model descriptions for given types.

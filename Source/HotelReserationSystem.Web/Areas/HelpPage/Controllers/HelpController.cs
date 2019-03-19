@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions;
-using HotelReserationSystem.Web.Areas.HelpPage.Models;
+using HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions;
+using HotelReserationSystem.WebApi.Areas.HelpPage.Models;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage.Controllers
+namespace HotelReserationSystem.WebApi.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

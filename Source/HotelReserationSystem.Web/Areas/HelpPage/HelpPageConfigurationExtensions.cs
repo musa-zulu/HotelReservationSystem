@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using HotelReserationSystem.Web.Areas.HelpPage.ModelDescriptions;
-using HotelReserationSystem.Web.Areas.HelpPage.Models;
+using HotelReserationSystem.WebApi.Areas.HelpPage.ModelDescriptions;
+using HotelReserationSystem.WebApi.Areas.HelpPage.Models;
 
-namespace HotelReserationSystem.Web.Areas.HelpPage
+namespace HotelReserationSystem.WebApi.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {
